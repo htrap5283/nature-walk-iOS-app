@@ -67,6 +67,7 @@ Open the terminal and navigate to the project directory, then run:
 ```bash
 pod install
 ```
+
 This will install all necessary dependencies, including Firebase.
 
 Open the Workspace
@@ -91,10 +92,10 @@ Install Carthage (if not already installed)
 
 brew install carthage
 ```
+
 Create a Cartfile
 
 Add the following to your Cartfile:
-
 
 github "firebase/firebase-ios-sdk" ~> 9.0
 
@@ -105,6 +106,7 @@ Run the following command in your project directory:
 
 carthage update --platform iOS
 ```
+
 Integrate Frameworks
 
 Drag the built frameworks from Carthage/Build/iOS into your Xcode project.
@@ -195,6 +197,7 @@ If you have any questions or feedback, feel free to reach out:
 
 Email: parthjp5283@gmail.com
 GitHub: htrap5283
+
 🔍 Additional Notes
 Firebase Security Rules: Ensure your Firestore and Authentication security rules are set appropriately to protect user data.
 iOS Updates: Stay up to date with the latest iOS SDK versions to benefit from new features and security improvements.
