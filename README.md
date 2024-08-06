@@ -193,8 +193,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📬 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: yourname@example.com
-GitHub: yourusername
+Email: parthjp5283@gmail.com
+GitHub: htrap5283
 🔍 Additional Notes
 Firebase Security Rules: Ensure your Firestore and Authentication security rules are set appropriately to protect user data.
 iOS Updates: Stay up to date with the latest iOS SDK versions to benefit from new features and security improvements.
